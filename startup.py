@@ -2,7 +2,6 @@ import streamlit as st
 import numpy as py
 # import matplotlib.pyplot as pyplot
 import pandas as pd
-!pip install joblib
 import joblib
 from sklearn.linear_model import LinearRegression
 
